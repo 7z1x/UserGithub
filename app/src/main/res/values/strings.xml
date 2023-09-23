@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UserGihub</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="username">User</string>
+    <string name="nama_asli">Nama Asli</string>
+    <string name="followers">%s Followers</string>
+    <string name="following">%s Following</string>
+    <string name="navigation_tabsDeskription">Navigation Tabs Deskrisi\n</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+</resources>

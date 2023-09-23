@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UserGihub" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/teksterang</item>
+    </style>
+</resources>
